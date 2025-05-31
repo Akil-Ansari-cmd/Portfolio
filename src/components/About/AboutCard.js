@@ -13,8 +13,7 @@ function AboutCard() {
             <br />
             I have done training of 3 Months in Aara Technologies as a React Developer.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed BCA from Integral Univesity, Lucknow.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
